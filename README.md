@@ -2,8 +2,14 @@
 <h1 align="center">Naz Zaamout</h1>
 
 <p align="center">
+  <a href="mailto:nzaamout@gmail.com">📫 nzaamout@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/naz-zaamout-324b2066" target="_blank">🔗 LinkedIn</a>
+</p>
+
+<p align="center">
   🌿 <b>Full-Stack Developer</b> · <b>Project Lead</b> · <b>IoT Builder</b> · <b>UI/UX Advocate</b> 🌸
 </p>
+
 <p align="center"><i>“Coding with purpose. Designing with care.”</i></p>
 
 ---
