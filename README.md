@@ -32,49 +32,81 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 
 > 🚧 Note: Most of my projects are private due to team collaboration and school policy — but fully available upon request or demo.
 
-### 🌿 Sprout: Plant Care Tracker (2024 – Present)
-- Built with React Native, MongoDB Atlas, Node.js, Express
-- Integrated OpenWeatherMap & Plant.id APIs
-- Real-time sensor support with AWS IoT + Raspberry Pi
-- Designed to provide plant care schedules & monitoring
+<details>
+<summary>🌿 Sprout: Plant Care Tracker (2024 – Present)</summary>
 
-### ⚡ Tesla Autopilot Risk Analyzer (2025)
+- Built with React Native, MongoDB Atlas, Node.js, Express  
+- Integrated OpenWeatherMap & Plant.id APIs  
+- Real-time sensor support with AWS IoT + Raspberry Pi  
+- Designed to provide plant care schedules & monitoring  
+
+</details>
+
+<details>
+<summary>⚡ Tesla Autopilot Risk Analyzer (2025)</summary>
+
 - Backend developed using Node.js, Express, and MQTT
 - Uses predictive analytics to evaluate risk of Autopilot failure
 - Factors include GPS location, traffic density, speed, and weather
-- Designed to simulate real-world conditions using sensor and cloud data
+- Designed to simulate real-world conditions using sensor and cloud data 
 
-### 🎧 Tuneify: Music Player App (2024)
+</details>
+
+<details>
+<summary>🎧 Tuneify: Music Player App (2024)</summary>
+
 - Cross-platform mobile app built with React Native
 - Features include audio playback, playlists, and theme support
 - Collaborative team project with attention to UI polish and UX flow
 
-### 📚 BookFoo: Book Search Webpage (2024)
+</details>
+
+<details>
+<summary>📚 BookFoo: Book Search Webpage (2024)</summary>
+
 - Developed using React + external book APIs
 - Displays cover, title, author, subjects & more
-- Save favorites & browse interactively
+- Save favorites & browse interactively 
 
-### 💻 Java ADT Implementation (2024)
+</details>
+
+<details>
+<summary>💻 Java ADT Implementation (2024)</summary>
+
 - Created custom Stack & Queue data structures using Java
 - Simulated real-world XML parsing with object-oriented principles
-- Included unit testing using JUnit for reliability
+- Included unit testing using JUnit for reliability  
 
-### ✈️ Traveless: Travel Agency Management System (2024)
+</details>
+
+<details>
+<summary>✈️ Traveless: Travel Agency Management System (2024)</summary>
+
 - Built with C# using .NET MAUI Blazor Hybrid for a cross-platform GUI
 - Manages flights, reservations, and airports with filtering and search
 - Features include auto-generated reservation codes and exception handling
 
-### 🛠️ Appliances Inventory Management System (2024)
+</details>
+
+<details>
+<summary>🛠️ Appliances Inventory Management System (2024)</summary>
+
 - Built using C#, .NET MAUI Blazor Hybrid, and Microsoft SQL Server
 - Cross-platform app to manage inventory for Modern Appliances
 - Supports various types: Refrigerators, Vacuums, Microwaves, Dishwashers
 - Implements class inheritance, abstract classes, and interfaces
 - Features searching, filtering, updating, and exception handling
 
-### 🌙 LumiJournal: Mood Tracker + Habit Journal (2024)
+</details>
+
+<details>
+<summary>🌙 LumiJournal: Mood Tracker + Habit Journal Side project (2024)</summary>
+
 - React-based journaling platform inspired by Hobonichi style
 - Tracks mood, habits, and includes visual charts
 - Supports custom stickers and emotion tagging
+
+</details>
 
 ---
 
@@ -153,4 +185,5 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 
 ---
 
-> 💬 “Sprout small. Grow strong.” — *Naz 🌱*
+<p align="center"><i>“Sprout small. Grow strong.”</i> 🌱</p>
+<p align="center">— Naz Zaamout</p>
