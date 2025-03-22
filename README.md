@@ -1,8 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nazzaamout&theme=tokyonight&row=1&column=6" />
-</p>
-
 <h1 align="center">Naz Zaamout</h1>
 
 <p align="center">
