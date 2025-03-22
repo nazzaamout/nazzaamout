@@ -1,10 +1,12 @@
 <!-- Banner -->
-<p align="center">
-  <img src="assets/naz-banner.png" alt="Naz's Banner" />
-</p>
 
-<h1 align="center">Hi there, I’m Naz 👋</h1>
-<h3 align="center">🌸 Software Developer | Project Lead | IoT & Journal Enthusiast 🌿</h3>
+<h1 align="center">Naz Zaamout</h1>
+
+<p align="center">
+  🌿 <b>Full-Stack Developer</b> · <b>Project Lead</b> · <b>IoT Builder</b> · <b>UI/UX Advocate</b> 🌸
+</p>
+<p align="center"><i>“Coding with purpose. Designing with care.”</i></p>
+
 
 ---
 
