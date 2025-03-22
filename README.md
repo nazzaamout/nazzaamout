@@ -1,4 +1,7 @@
 <!-- Banner -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nazzaamout&theme=tokyonight&row=1&column=6" />
+</p>
 
 <h1 align="center">Naz Zaamout</h1>
 
@@ -7,10 +10,11 @@
 </p>
 <p align="center"><i>“Coding with purpose. Designing with care.”</i></p>
 
-
 ---
 
-## ✨ About Me
+<h3 align="left">
+  <img src="https://img.shields.io/badge/✨%20About%20Me-2F4F4F?style=for-the-badge&logo=github" height="42">
+</h3>
 
 I'm a detail-oriented software developer and creative tech problem solver currently pursuing my Software Development Diploma at SAIT. I’ve led multiple full-stack projects and love blending backend logic with front-end aesthetics to build things that are both functional and beautiful.
 
@@ -30,7 +34,9 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 
 ---
 
-## 💼 Key Projects
+<h3 align="left">
+  <img src="https://img.shields.io/badge/💼%20Key%20Projects-2F4F4F?style=for-the-badge&logo=github" height="42">
+</h3>
 
 > 🚧 Note: Most of my projects are private due to team collaboration and school policy — but fully available upon request or demo.
 
@@ -112,7 +118,9 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 
 ---
 
-## 🧭 My Developer Journey
+<h3 align="left">
+  <img src="https://img.shields.io/badge/🧭%20My%20Developer%20Journey-2F4F4F?style=for-the-badge&logo=github" height="42">
+</h3>
 
 - 🎓 **2024** – Enrolled in Software Development @ SAIT  
 - 🏆 **2024** – Won Student Excellence + Jason Lang Scholarship  
@@ -122,7 +130,9 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 
 ---
 
-## 📊 GitHub Stats & Activity
+<h3 align="left">
+  <img src="https://img.shields.io/badge/📊%20GitHub%20Stats%20&%20Activity-2F4F4F?style=for-the-badge&logo=github" height="42">
+</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazzaamout&show_icons=true&theme=tokyonight&hide=prs" width="50%" />
@@ -141,7 +151,9 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 
 ---
 
-## 🌱 GitHub Contribution Calendar
+<h3 align="left">
+  <img src="https://img.shields.io/badge/🌱%20GitHub%20Contribution%20Calendar-2F4F4F?style=for-the-badge&logo=github" height="42">
+</h3>
 
 <p align="center">
   <img src="https://github-contributions-api.deno.dev/nazzaamout.svg" alt="GitHub contribution calendar" />
@@ -151,7 +163,9 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="left">
+  <img src="https://img.shields.io/badge/🛠️%20Tech%20Stck-2F4F4F?style=for-the-badge&logo=github" height="42">
+</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
@@ -174,7 +188,9 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 
 ---
 
-## 📫 Connect With Me
+<h3 align="left">
+  <img src="https://img.shields.io/badge/📫%20Connect%20With%20Me-2F4F4F?style=for-the-badge&logo=github" height="42">
+</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/naz-zaamout-324b2066" target="_blank">
