@@ -190,20 +190,5 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 
 ---
 
-<h3 align="left">
-  <img src="https://img.shields.io/badge/📫%20Connect%20With%20Me-2F4F4F?style=for-the-badge&logo=github" height="42">
-</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/naz-zaamout-324b2066" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nzaamout@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center"><i>“Sprout small. Grow strong.”</i> 🌱</p>
 <p align="center">— Naz Zaamout</p>
