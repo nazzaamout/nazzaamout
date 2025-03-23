@@ -173,7 +173,7 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 ---
 
 <h3 align="left">
-  <img src="https://img.shields.io/badge/🛠%20Tech%20Stck-2F4F4F?style=for-the-badge&logo=github" height="38">
+  <img src="https://img.shields.io/badge/%20Tech%20Stck-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
