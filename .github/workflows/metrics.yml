@@ -34,7 +34,7 @@ jobs:
           plugin_lines: yes
 
           # 🔁 Contribution Streak
-          plugin_streak: yes
+          # plugin_streak: yes
 
           # 📅 GitHub Calendar
           plugin_isocalendar: yes
