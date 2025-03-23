@@ -137,8 +137,14 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazzaamout&show_icons=true&theme=tokyonight&hide=prs" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazzaamout&layout=compact&theme=tokyonight" width="48%" />
+  <img 
+    src="https://github-readme-stats-theta-orcin.vercel.app/api?username=nazzaamout&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
+    width="52%" 
+  />
+  <img 
+    src="https://github-readme-stats-theta-orcin.vercel.app/api/top-langs/?username=nazzaamout&layout=compact&theme=tokyonight&count_private=true" 
+    width="40%" 
+  />
 </p>
 
 <p align="center">
@@ -146,10 +152,11 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-87-success?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-34-purple?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-272-success?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-0-purple?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/New%20Repos-5-blue?style=flat&logo=github" />
 </p>
+
 
 ---
 
