@@ -1,23 +1,47 @@
-name: 🛠️ Metrics
+name: 🧙‍♀️ Generate GitHub Metrics
 
 on:
   schedule: [{ cron: "0 6 * * *" }]  # Every day at 6 AM UTC
-  workflow_dispatch:                # Allow manual run
+  workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: 📈 Generate Metrics
+      - name: 🪄 Generate Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          user: nazzaamout
+          template: classic
           base: header, activity, community, repositories
           config_timezone: America/Edmonton
-          plugin_isocalendar: yes
+          config_display: large
+
+          # 🔥 Language Breakdown
           plugin_languages: yes
-          plugin_languages_ignored: html, css
           plugin_languages_sections: most-used
-          plugin_lines: yes
-          plugin_stars: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_threshold: 0%
           repositories_affiliations: owner, collaborator
+
+          # 🌟 Starred Repos Summary
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # 🧠 Lines of Code
+          plugin_lines: yes
+
+          # 🔁 Contribution Streak
+          plugin_streak: yes
+
+          # 📅 GitHub Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 💬 Commented Issues/Discussions
+          plugin_discussions: yes
+
+          # 🧪 Build activity (CI/CD usage)
+          plugin_followup: yes
