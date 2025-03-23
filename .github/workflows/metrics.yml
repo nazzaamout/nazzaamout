@@ -18,6 +18,12 @@ jobs:
           config_timezone: America/Edmonton
           config_display: large
 
+           # OUTPUT FILE 🔽
+          output_action: commit
+          output_condition: data-changed
+          output: metrics.svg
+          committer_message: "🧙‍♀️ update: generated GitHub metrics"
+
           # 🔥 Language Breakdown
           plugin_languages: yes
           plugin_languages_sections: most-used
