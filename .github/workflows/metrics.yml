@@ -26,7 +26,6 @@ jobs:
            # OUTPUT FILE 🔽
           output_action: commit
           output_condition: data-changed
-          output: metrics.svg
           committer_message: "🧙‍♀️ update: generated GitHub metrics"
 
           # 🔥 Language Breakdown
