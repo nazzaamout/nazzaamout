@@ -11,6 +11,7 @@
 </p>
 
 <p align="center"><i>“Coding with purpose. Designing with care.”</i></p>
+<br/>
 
 ---
 
@@ -128,72 +129,46 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 - 🏆 **2024** – Won Student Excellence + Jason Lang Scholarship  
 - 💻 **2024** – Led Sprout, Tuneify, BookFoo, Traveless & more  
 - 🔬 **2025** – Exploring predictive analytics & IoT systems  
-- 🚀 **Next** – Launching Sprout publicly & contributing to open source  
-
+- 🚀 **Next** – Launching Sprout publicly & contributing to open source
+  
 ---
 
 <h3 align="left">
-  <img src="https://img.shields.io/badge/%20GitHub%20Stats%20&%20Activity-2F4F4F?style=for-the-badge&logo=github" height="38">
+  <img src="https://img.shields.io/badge/%20Tech%20Stack-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-theta-orcin.vercel.app/api?username=nazzaamout&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
-    width="52%" 
-  />
-  <img 
-    src="https://github-readme-stats-theta-orcin.vercel.app/api/top-langs/?username=nazzaamout&layout=compact&theme=tokyonight&count_private=true" 
-    width="40%" 
-  />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nazzaamout&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-272-success?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-0-purple?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/New%20Repos-5-blue?style=flat&logo=github" />
-</p>
-
-
----
-
-<h3 align="left">
-  <img src="https://img.shields.io/badge/%20GitHub%20Contribution%20Calendar-2F4F4F?style=for-the-badge&logo=github" height="38">
-</h3>
-
-<p align="center">
-  <img src="https://github-contributions-api.deno.dev/nazzaamout.svg" alt="GitHub contribution calendar" />
-</p>
-
-> 🟩 *Consistent effort adds up — here’s my contribution graph showing the code I’ve planted!*
-
----
-
-<h3 align="left">
-  <img src="https://img.shields.io/badge/%20Tech%20Stck-2F4F4F?style=for-the-badge&logo=github" height="38">
-</h3>
-
+### 🖼️ Frontend  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+
+### ⚙️ Backend + API  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+
+### 🗃️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![SQL PL](https://img.shields.io/badge/-SQL--PL-4479A1?logo=datagrip&logoColor=white&style=flat)
+![Oracle](https://img.shields.io/badge/-Oracle21c-F80000?logo=oracle&logoColor=white&style=flat)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat)
+
+### 🧰 Tools & Platforms  
 ![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-512BD4?logo=dotnet&logoColor=white&style=flat)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 ![Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat)
-![Oracle](https://img.shields.io/badge/-Oracle21c-F80000?logo=oracle&logoColor=white&style=flat)
-![SQL PL](https://img.shields.io/badge/-SQL--PL-4479A1?logo=datagrip&logoColor=white&style=flat)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat)
+
+---
+
+<!-- 🧙‍♀️ GitHub Metrics -->
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 ---
 
