@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🌿 <b>Full-Stack Developer</b> · <b>Project Lead</b> · <b>IoT Builder</b> · <b>UI/UX Advocate</b> 🌸
+  🌿 <b>Full-Stack Software Developer</b> · <b>Project Lead</b> · <b>Backend-focused</b> · <b>UX-aware</b> · <b>Raspberry Pi & AI Curious</b> 🌸
 </p>
 
 <p align="center"><i>“Coding with purpose. Designing with care.”</i></p>
@@ -15,7 +15,7 @@
 ---
 
 <h3 align="left">
-  <img src="https://img.shields.io/badge/✨%20About%20Me-2F4F4F?style=for-the-badge&logo=github" height="42">
+  <img src="https://img.shields.io/badge/%20About%20Me-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
 I'm a detail-oriented software developer and creative tech problem solver currently pursuing my Software Development Diploma at SAIT. I’ve led multiple full-stack projects and love blending backend logic with front-end aesthetics to build things that are both functional and beautiful.
@@ -37,7 +37,7 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 ---
 
 <h3 align="left">
-  <img src="https://img.shields.io/badge/💼%20Key%20Projects-2F4F4F?style=for-the-badge&logo=github" height="42">
+  <img src="https://img.shields.io/badge/%20Key%20Projects-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
 > 🚧 Note: Most of my projects are private due to team collaboration and school policy — but fully available upon request or demo.
@@ -121,7 +121,7 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 ---
 
 <h3 align="left">
-  <img src="https://img.shields.io/badge/🧭%20My%20Developer%20Journey-2F4F4F?style=for-the-badge&logo=github" height="42">
+  <img src="https://img.shields.io/badge/%20My%20Developer%20Journey-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
 - 🎓 **2024** – Enrolled in Software Development @ SAIT  
@@ -133,7 +133,7 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 ---
 
 <h3 align="left">
-  <img src="https://img.shields.io/badge/📊%20GitHub%20Stats%20&%20Activity-2F4F4F?style=for-the-badge&logo=github" height="42">
+  <img src="https://img.shields.io/badge/%20GitHub%20Stats%20&%20Activity-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
 <p align="center">
@@ -154,7 +154,7 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 ---
 
 <h3 align="left">
-  <img src="https://img.shields.io/badge/🌱%20GitHub%20Contribution%20Calendar-2F4F4F?style=for-the-badge&logo=github" height="42">
+  <img src="https://img.shields.io/badge/%20GitHub%20Contribution%20Calendar-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
 <p align="center">
@@ -166,7 +166,7 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 ---
 
 <h3 align="left">
-  <img src="https://img.shields.io/badge/🛠️%20Tech%20Stck-2F4F4F?style=for-the-badge&logo=github" height="42">
+  <img src="https://img.shields.io/badge/🛠%20Tech%20Stck-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
