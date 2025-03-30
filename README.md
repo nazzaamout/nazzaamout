@@ -1,9 +1,18 @@
 <!-- Banner -->
 <h1 align="center">Naz Zaamout</h1>
-
 <p align="center">
-  <a href="mailto:nzaamout@gmail.com">📫 nzaamout@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/naz-zaamout-324b2066" target="_blank">🔗 LinkedIn</a>
+  <a href="https://nazza.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-5E5A80?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://discord.gg/nazzaam">
+    <img src="https://img.shields.io/badge/Discord-6D7EBF?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://linkedin.com/in/naz-zaamout-324b2066">
+    <img src="https://img.shields.io/badge/LinkedIn-5A9EC9?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nzaamout@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D36A5C?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
@@ -11,7 +20,7 @@
 </p>
 
 <p align="center"><i>“Coding with purpose. Designing with care.”</i></p>
-<br/>
+
 
 ---
 
