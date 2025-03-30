@@ -137,7 +137,7 @@ I'm a detail-oriented software developer and creative tech problem solver curren
   <img src="https://img.shields.io/badge/%20Tech%20Stack-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
-## 🧑‍💻 Programming Languages
+### 🧑‍💻 Programming Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
