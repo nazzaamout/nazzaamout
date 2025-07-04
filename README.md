@@ -53,7 +53,7 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 > 🚧 Note: Most of my projects are private due to team collaboration and school policy — but fully available upon request or demo.
 
 <details>
-<summary>🌿 Sprout: Plant Care Tracker (2024 – Present)</summary>
+<summary>🌿 Sprout: Plant Care Tracker (2024 – 2025)</summary>
 
 - Built with React Native, MongoDB Atlas, Node.js, Express  
 - Integrated OpenWeatherMap & Plant.id APIs  
@@ -86,7 +86,7 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 
 - Developed using React + external book APIs
 - Displays cover, title, author, subjects & more
-- Save favorites & browse interactively 
+- Save favourites & browse interactively 
 
 </details>
 
