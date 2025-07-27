@@ -7,7 +7,7 @@
   <a href="https://discord.gg/nazzaam">
     <img src="https://img.shields.io/badge/Discord-6D7EBF?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://linkedin.com/in/naz-zaamout-324b2066">
+  <a href="https://linkedin.com/in/nosaiba-zaamout">
     <img src="https://img.shields.io/badge/LinkedIn-5A9EC9?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nzaamout@gmail.com">
