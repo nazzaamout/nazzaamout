@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  🌿 <b>Full-Stack Software Developer</b> · <b>Project Lead</b> · <b>Backend-focused</b> · <b>UX-aware</b> · <b>Raspberry Pi & AI Curious</b> 🌸
+  <b>Full-Stack Software Developer</b> · <b>AWS Certified Cloud Practitioner </b> · <b>Founder of TekBloom</b> · <b>Contractor</b> · <b>IoT & Cloud Enthusiats</b>
 </p>
 
 <p align="center"><i>“Coding with purpose. Designing with care.”</i></p>
@@ -28,21 +28,23 @@
   <img src="https://img.shields.io/badge/%20About%20Me-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
-I'm a detail-oriented software developer and creative tech problem solver currently pursuing my Software Development Diploma at SAIT. I’ve led multiple full-stack projects and love blending backend logic with front-end aesthetics to build things that are both functional and beautiful.
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-F89120?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPA-3.9%20Distinction-2E8B57?style=flat&logo=graduated&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Award-Student%20Excellence%20%26%20Jason%20Lang-6A5ACD?style=flat"/>
+</p>
 
-- 🏆 **Awarded** the Student Excellence and Jason Lang Scholarships  
-- 🌱 **Currently Building:**  
-  - 🌿 A smart plant care app with real-time IoT sensors  
-  - ⚡ A predictive analytics engine to assess driving risk factors  
-- 🧠 **What I Know:**  
-  A full-stack blend of front-end, back-end, IoT, cloud, and database tools:
-  - **Frontend:** React · React Native · Tailwind CSS  
-  - **Backend:** Node.js (Express, MQTT) · Java · Python · C# · .NET MAUI Blazor  
-  - **Databases:** MongoDB · Oracle 21c · SQL PL · Microsoft SQL Server  
-  - **DevOps & Tools:** Git · Docker · AWS (IAM, Lambda, EC2, IoT Core)
-- ☁️ **Currently Exploring:** AWS IAM · EC2 · IoT Core · Lambda Functions · Predictive Analytics · CI/CD Workflows  
-- 💬 **Ask Me About:** React Native · Node.js APIs · UI/UX · IoT sensors  
-- 🍬 **Fun Fact:** I snack on Skittles while journaling ✏️  
+I'm a detail-oriented software developer and creative problem solver, with a passion for developing mobile applications, IoT/cloud integrations, and scalable backends.
+
+🎓 Graduate of SAIT (3.9 GPA · Dean’s List · Student Excellence Award · Jason Lang Scholarship)  
+🌱 Building solutions that blend **practical functionality** with **delightful UX**
+
+- 🚀 **Currently Working On:**  
+  - **Unispect** – Mobile application (React Native + TypeScript + PostgreSQL + Azure)  
+  - **Sprout** – Smart plant care IoT app with sensors, AWS backend, and analytics dashboard  
+- 🧠 **Skills In Action:** React Native · Node.js (Express/Sequelize) · PostgreSQL · AWS · Azure · Docker · CI/CD  
+- 💬 **Ask Me About:** scalable backends · IoT integrations · offline-first workflows  
+- 🍬 **Fun Fact:** I debug better when I have Skittles 🌈
 
 ---
 
@@ -50,43 +52,50 @@ I'm a detail-oriented software developer and creative tech problem solver curren
   <img src="https://img.shields.io/badge/%20Key%20Projects-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
-> 🚧 Note: Most of my projects are private due to team collaboration and school policy — but fully available upon request or demo.
+> 🚧 Note: Most repos are private for client work or school — available on request/demo (school repos only)
 
 <details>
+<summary>🏢 Unispect Mobile Application (2025 – present)</summary>
+
+- Contract engagement for a Western Canadian property management firm.
+- **Lead full-stack developer**: mobile app, backend APIs, deployment pipelines.
+- Features: secure auth, offline-ready sync, rich media capture, role-based access, PDF generation.  
+- **Stack:** ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+</details>
+
+<details>  
 <summary>🌿 Sprout: Plant Care Tracker (2024 – 2025)</summary>
 
-- Built with React Native, MongoDB Atlas, Node.js, Express  
-- Integrated OpenWeatherMap & Plant.id APIs  
-- Real-time sensor support with AWS IoT + Raspberry Pi  
-- Designed to provide plant care schedules & monitoring  
+- IoT-driven plant care app with schedules, sensor analytics, and task streaks.  
+- Built with **React Native + Node.js + MongoDB**, sensors via **Raspberry Pi + Zigbee** into **AWS IoT Core**.  
+- Recently migrated ingestion to AWS + added analytics dashboard.  
+- **Stack:** ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 </details>
 
 <details>
 <summary>⚡ Tesla Autopilot Risk Analyzer (2025)</summary>
 
-- Backend developed using Node.js, Express, and MQTT
-- Uses predictive analytics to evaluate risk of Autopilot failure
-- Factors include GPS location, traffic density, speed, and weather
-- Designed to simulate real-world conditions using sensor and cloud data 
+- Predictive analytics backend to simulate Autopilot failure risk.  
+- Inputs: GPS, traffic, weather, speed.  
+- Built with Node.js, Express, and MQTT. 
 
 </details>
 
 <details>
 <summary>🎧 Tuneify: Music Player App (2024)</summary>
 
-- Cross-platform mobile app built with React Native
-- Features include audio playback, playlists, and theme support
-- Collaborative team project with attention to UI polish and UX flow
+- Cross-platform React Native music app
+- Features: playlists, theming, polished UI/UX
 
 </details>
 
 <details>
 <summary>📚 BookFoo: Book Search Webpage (2024)</summary>
 
-- Developed using React + external book APIs
-- Displays cover, title, author, subjects & more
-- Save favourites & browse interactively 
+- React web app to browse/search books from APIs.  
+- Save favourites, interactive browsing. 
 
 </details>
 
@@ -100,31 +109,9 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 </details>
 
 <details>
-<summary>✈️ Traveless: Travel Agency Management System (2024)</summary>
+<summary>✈️ Traveless · 🛠️ Appliances Inventory · 🌙 LumiJournal (2024)</summary>
 
-- Built with C# using .NET MAUI Blazor Hybrid for a cross-platform GUI
-- Manages flights, reservations, and airports with filtering and search
-- Features include auto-generated reservation codes and exception handling
-
-</details>
-
-<details>
-<summary>🛠️ Appliances Inventory Management System (2024)</summary>
-
-- Built using C#, .NET MAUI Blazor Hybrid, and Microsoft SQL Server
-- Cross-platform app to manage inventory for Modern Appliances
-- Supports various types: Refrigerators, Vacuums, Microwaves, Dishwashers
-- Implements class inheritance, abstract classes, and interfaces
-- Features searching, filtering, updating, and exception handling
-
-</details>
-
-<details>
-<summary>🌙 LumiJournal: Mood Tracker + Habit Journal Side project (2024)</summary>
-
-- React-based journaling platform inspired by Hobonichi style
-- Tracks mood, habits, and includes visual charts
-- Supports custom stickers and emotion tagging
+- Academic projects showcasing .NET MAUI, Blazor, OOP principles, and journaling UI/UX.  
 
 </details>
 
@@ -136,9 +123,11 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 
 - 🎓 **2024** – Enrolled in Software Development @ SAIT  
 - 🏆 **2024** – Won Student Excellence + Jason Lang Scholarship  
-- 💻 **2024** – Led Sprout, Tuneify, BookFoo, Traveless & more  
-- 🔬 **2025** – Exploring predictive analytics & IoT systems  
-- 🚀 **Next** – Launching Sprout publicly & contributing to open source
+- 🌱 **2024** – Led Sprout + multiple cross-platform apps
+- 🎓 **2025** – Graduated SAIT Software Development Diploma (3.9 GPA, Dean's List)
+- 🎓 **2025** – Earned AWS Certified Cloud Practitioner
+- 🚀 **2025** – Contracting (Unispect) · Advancing Sprout with AWS migration · Building a new stealth project  
+- 🔮 **Next:** Public Launch of Sprout · Expand stealth project · Contribute to OSS  
   
 ---
 
@@ -146,7 +135,7 @@ I'm a detail-oriented software developer and creative tech problem solver curren
   <img src="https://img.shields.io/badge/%20Tech%20Stack-2F4F4F?style=for-the-badge&logo=github" height="38">
 </h3>
 
-####  👩‍💻 Languages & Frameworks
+#### 👩‍💻 Languages & Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -182,6 +171,8 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 #### 🗃️ Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -219,6 +210,7 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![PDFKit](https://img.shields.io/badge/pdfkit-CC0000?style=for-the-badge)
 
 
 ---
@@ -229,6 +221,10 @@ I'm a detail-oriented software developer and creative tech problem solver curren
 </p>
 
 ---
+
+<p align="center">
+  Founder of <b>TekBloom Software Solutions</b> · Building Sprout · Contracting Mobile App · Innovating Stealth Project
+</p>
 
 <p align="center"><i>“Sprout small. Grow strong.”</i> 🌱</p>
 <p align="center">— Naz Zaamout</p>
