@@ -40,7 +40,7 @@ I'm a detail-oriented software developer and creative problem solver, with a pas
 🌱 Building solutions that blend **practical functionality** with **delightful UX**
 
 - 🚀 **Currently Working On:**  
-  - **Unispect** – Mobile application (React Native + TypeScript + PostgreSQL + Azure)  
+  - **MobileApp** – Mobile application (React Native + TypeScript + PostgreSQL + Azure)  
   - **Sprout** – Smart plant care IoT app with sensors, AWS backend, and analytics dashboard  
 - 🧠 **Skills In Action:** React Native · Node.js (Express/Sequelize) · PostgreSQL · AWS · Azure · Docker · CI/CD  
 - 💬 **Ask Me About:** scalable backends · IoT integrations · offline-first workflows  
@@ -55,7 +55,7 @@ I'm a detail-oriented software developer and creative problem solver, with a pas
 > 🚧 Note: Most repos are private for client work or school — available on request/demo (school repos only)
 
 <details>
-<summary>🏢 Unispect Mobile Application (2025 – present)</summary>
+<summary>🏢 Mobile Application (2025 – present)</summary>
 
 - Contract engagement for a Western Canadian property management firm.
 - **Lead full-stack developer**: mobile app, backend APIs, deployment pipelines.
@@ -126,7 +126,7 @@ I'm a detail-oriented software developer and creative problem solver, with a pas
 - 🌱 **2024** – Led Sprout + multiple cross-platform apps
 - 🎓 **2025** – Graduated SAIT Software Development Diploma (3.9 GPA, Dean's List)
 - 🎓 **2025** – Earned AWS Certified Cloud Practitioner
-- 🚀 **2025** – Contracting (Unispect) · Advancing Sprout with AWS migration · Building a new stealth project  
+- 🚀 **2025** – Contractor · Advancing Sprout with AWS migration · Building a new stealth project  
 - 🔮 **Next:** Public Launch of Sprout · Expand stealth project · Contribute to OSS  
   
 ---
