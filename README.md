@@ -216,9 +216,9 @@ I'm a detail-oriented software developer and creative problem solver, with a pas
 ---
 
 <!-- 🧙‍♀️ GitHub Metrics -->
-<p align="center">
+<!-- <p align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
-</p>
+</p> -->
 
 ---
 
