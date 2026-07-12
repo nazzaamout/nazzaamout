@@ -1,7 +1,7 @@
 <h1 align="center">Naz Zaamout</h1>
 
 <p align="center">
-  React Native Developer · CTO & co-founder @ Cheerfelt Circle
+  Lead Software Engineer @ Unison Realty Group Ltd · Infrastructor Business Analyst @ Bow Valley College
 </p>
 
 <p align="center">
